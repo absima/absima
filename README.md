@@ -1,5 +1,5 @@
-# Hi, I’m Simachew 👋
-## (Sima for short)
+# Hi, I’m Simachew ## (Sima for short)👋
+
 
 <img src="assets/image.png" alt="absima workspace illustration" width="100%"/>
 
