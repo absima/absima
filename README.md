@@ -7,7 +7,7 @@
 
 ## About me
 
-I’m a **Data Scientist** with a background spanning **mathematics, computational science, and applied machine learning**. I design **reproducible, data pipelines** and **statistical models** to analyze complex systems and time-dependent data.
+I’m a **Data Scientist** with a background spanning **mathematics, computational neuroscience, and applied machine learning**. I design **reproducible, data pipelines** and **statistical models** to analyze complex systems and time-dependent data.
 
 
 ---
